@@ -50,13 +50,6 @@ console.log(merge(nums1,m,nums2,n));
 
 
 
-
-
-
-
-
-
-
 // Write code for finding the smallest element in an array.
 
 
